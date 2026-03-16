@@ -1,5 +1,6 @@
 # Performance_Dashboard
 Plant Operations &amp; Sales Performance Dashboard
+<img width="1295" height="833" alt="Screenshot 2026-03-16 092308" src="https://github.com/user-attachments/assets/aa5ee065-0d8d-4d14-9a41-f72b9fa39328" />
 
 1. Executive Summary</br>
 This Power BI presentation is designed to monitor plant performance, financial health, and operational efficiency. It translates raw manufacturing and accounting data into actionable insights for stakeholders to track budget variances and production output.</br>
